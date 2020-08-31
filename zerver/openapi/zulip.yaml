@@ -7489,7 +7489,7 @@ paths:
                         "realm_uri": "http://localhost:9991",
                         "realm_name": "Zulip Dev",
                         "realm_icon": "https://secure.gravatar.com/avatar/62429d594b6ffc712f54aee976a18b44?d=identicon",
-                        "realm_description": "<p>The Zulip development environment default organization.  It's great for testing!</p>",
+                        "realm_description": "<p>Mumchat description</p>",
                         "result": "success",
                         "external_authentication_methods":
                           [
